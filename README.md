@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rakubaku
-- 👀 I’m interested in data mininga and machine learning.
+- 👀 I’m interested in data mining and machine learning.
 - 🌱 I’m currently learning docker and kubernetes
 - 💞️ I’m looking to collaborate on machine learning projects.
 - 📫 How to reach me: https://rklopotek.blog.uksw.edu.pl/o-mnie/
